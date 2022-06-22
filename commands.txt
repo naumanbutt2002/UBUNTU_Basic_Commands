@@ -1,0 +1,55 @@
+ls
+ls -la
+ls -l
+ls /
+ls -r
+ls .. parent directory
+pwd provide full path
+cd change directory
+cd .. back to home
+cat
+makdir
+rm -r for deletion of folder
+rm deletion of file
+cp   copy file to folder
+cp -r
+nano
+head  firsr 10 line show
+tail last 10 lines
+uname -a tells the system name
+wget 		path sath do ge to software download ho ga
+sudo apt-get install vlc   to istall or update  
+history    shows the history
+cat filename |grep fahad   to search something in the file
+man command name       es se command ki working pta chalti he
+ps  processor k bare me btati
+gzip filename      se jon si file zip krni he krlo
+ungzip filename    se unzip krlo
+hostname     host k name k btae ga
+ping Youtube.com   es se check kr
+w     number of user in system btae gi
+passwd   for changing password
+free      kitni space free he
+info      deep details of command
+df        shows k kitni used he 
+du        kisi bhi directory me pari files k size show karvae gi
+echo      to show some string on the consol
+less filename    es se file ka ek page show ho ga
+nl filename      numbers k sath data show krvae ga
+date    date ka btae gi
+sudo hwclock ..show -verbose     lnux k btae gii
+uname -m     shows architecture
+sudo hwclock ..show -verbose
+uname -r     shows kernal version
+cat /proc/cpuinfo   shows information about CPU
+unlink filename      ye sirf file ko delete krta he folder ko nai
+top    btata he k system me kon kitni speed le raha kitne processor work kr rahe
+commandname --help    command ka quick review de gi
+
+
+
+
+
+
+
+
